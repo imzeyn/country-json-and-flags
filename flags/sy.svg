@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+  <path d="M0 0h900v600H0z"/>
+  <path d="M0 0h900v400H0z" fill="#fff"/>
+  <path d="M0 0h900v200H0z" fill="#007a3d"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="m250 375 48.738-150 48.738 150-127.6-92.705h157.72 
+                                              M450 375 498.738 225l48.738 150-127.6-92.705h157.72 
+                                              M650 375 698.738 225l48.738 150-127.6-92.705h157.72" 
+        fill="#ce1126"/>
+</svg>
